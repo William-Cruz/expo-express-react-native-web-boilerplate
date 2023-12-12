@@ -41,7 +41,7 @@
     "babel-plugin-import": "^1.11.0",
     "babel-plugin-react-native-web": "^0.9.8",
     "babel-polyfill": "^6.26.0",
-    "babel-preset-expo": "^5.0.0",
+    "babel-preset-expo": "^10.0.0",
     "body-parser": "^1.18.3",
     "change-case": "^3.0.2",
     "connected-react-router": "^5.0.1",
